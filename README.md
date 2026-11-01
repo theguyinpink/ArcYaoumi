@@ -102,5 +102,10 @@ api/send-reminders.ts       Envoi VAPID depuis Vercel
 - Tester que les données d'un autre utilisateur ne sont pas lisibles (RLS).
 
 **Une petite note sur le nom :** le prénom affiché est toujours **Elodie**, sans accent.
-#   A r c Y a o u m i  
- 
+
+
+## Tester toutes les missions avec Supabase déjà configuré
+
+En développement seulement, lancez `npm run dev` et ouvrez `http://localhost:5173/?preview=1` (adaptez le port indiqué par Vite). L'application affiche **Mode démo**, et dans **Space → Horloge de démonstration**, choisissez une date entre le 1er novembre 2026 et le 31 janvier 2027. Toutes les actions dans cet aperçu restent dans le stockage local du navigateur, sans modifier la base Supabase.
+
+Pour revenir à l'application réelle, ouvrez `http://localhost:5173/` (sans `?preview=1`). Le paramètre `preview=1` est volontairement **ignoré après compilation** avec `npm run build` / sur Vercel. Ne stockez aucune donnée personnelle sensible dans le mode démo.

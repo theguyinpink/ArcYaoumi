@@ -6,7 +6,9 @@ import { createHandlerBoundToURL } from 'workbox-precaching'
 
 const sw = self as unknown as ServiceWorkerGlobalScope & { __WB_MANIFEST: Array<{url:string;revision:string|null}> }
 sw.skipWaiting(); clientsClaim(); cleanupOutdatedCaches()
-precacheAndRoute(sw.__WB_MANIFEST)
+// Workbox injectManifest recherche exactement l’expression self.__WB_MANIFEST.
+// @ts-ignore — propriété injectée lors de la compilation PWA.
+precacheAndRoute(self.__WB_MANIFEST)
 registerRoute(new NavigationRoute(createHandlerBoundToURL('/index.html')))
 sw.addEventListener('push',(event:PushEvent)=>{
  let data:{title?:string;body?:string;url?:string;hidePreview?:boolean}={}
