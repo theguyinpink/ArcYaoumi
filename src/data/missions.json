@@ -1,0 +1,1858 @@
+{
+  "project": "Winter Arc — Elodie",
+  "version": "1.0",
+  "period": {
+    "start": "2026-11-01",
+    "end": "2027-01-31",
+    "timezone": "Europe/Paris"
+  },
+  "editorial_notes": [
+    "Les durées sont des indications, jamais des obligations.",
+    "Les versions douces sont toujours valables.",
+    "Le journal reste indépendant et facultatif.",
+    "Les missions passées peuvent être rattrapées sans pénalité.",
+    "Les missions futures restent verrouillées jusqu’à leur date locale."
+  ],
+  "missions": [
+    {
+      "id": "2026-11-01",
+      "date": "2026-11-01",
+      "day": 1,
+      "month": 11,
+      "theme": "My Well-being Era",
+      "category": "bien-etre",
+      "title": "Définir mon intention",
+      "intention": "Identifier ce que tu aimerais ressentir pendant ce mois.",
+      "duration": "10 min",
+      "steps": [
+        "Installe-toi dans un endroit calme",
+        "Écris trois émotions ou sensations que tu aimerais cultiver",
+        "Choisis une phrase qui résume ton intention"
+      ],
+      "gentle_version": "Écris seulement un mot pour décrire ton envie.",
+      "encouragement": "Tu peux commencer sans avoir toutes les réponses.",
+      "reflection_question": "À quoi voudrais-tu que novembre ressemble pour toi ?",
+      "optional": true
+    },
+    {
+      "id": "2026-11-02",
+      "date": "2026-11-02",
+      "day": 2,
+      "month": 11,
+      "theme": "My Well-being Era",
+      "category": "bien-etre",
+      "title": "Prendre une vraie pause",
+      "intention": "T'accorder un moment sans attente ni performance.",
+      "duration": "15 min",
+      "steps": [
+        "Choisis un endroit où tu te sens bien",
+        "Mets les écrans de côté si tu le souhaites",
+        "Profite simplement d'une boisson, d'un paysage ou du silence"
+      ],
+      "gentle_version": "Reste deux minutes au calme.",
+      "encouragement": "Tu as le droit de ne rien produire.",
+      "reflection_question": "Comment ton corps se sent-il après cette pause ?",
+      "optional": true
+    },
+    {
+      "id": "2026-11-03",
+      "date": "2026-11-03",
+      "day": 3,
+      "month": 11,
+      "theme": "My Well-being Era",
+      "category": "bien-etre",
+      "title": "Manger en pleine conscience",
+      "intention": "Prendre un moment agréable pendant un repas.",
+      "duration": "15 min",
+      "steps": [
+        "Choisis un repas ou une collation qui te plaît",
+        "Assieds-toi et remarque odeurs, goûts et textures",
+        "Observe ton ressenti sans juger ce que tu manges"
+      ],
+      "gentle_version": "Prends trois bouchées sans écran.",
+      "encouragement": "Manger peut aussi être un moment de douceur.",
+      "reflection_question": "Qu'as-tu particulièrement apprécié ?",
+      "optional": true
+    },
+    {
+      "id": "2026-11-04",
+      "date": "2026-11-04",
+      "day": 4,
+      "month": 11,
+      "theme": "My Well-being Era",
+      "category": "bien-etre",
+      "title": "Préparer mon sommeil",
+      "intention": "Imaginer une transition plus douce vers la nuit.",
+      "duration": "20 min",
+      "steps": [
+        "Choisis une heure approximative pour ralentir",
+        "Baisse un peu la lumière et éloigne une source de distraction",
+        "Prépare un rituel calme : lecture, musique ou étirements légers"
+      ],
+      "gentle_version": "Diminue la lumière cinq minutes avant de dormir.",
+      "encouragement": "Ton repos compte, même quand la journée a été chargée.",
+      "reflection_question": "Quel geste t'aide à ralentir le soir ?",
+      "optional": true
+    },
+    {
+      "id": "2026-11-05",
+      "date": "2026-11-05",
+      "day": 5,
+      "month": 11,
+      "theme": "My Well-being Era",
+      "category": "bien-etre",
+      "title": "Bouger en douceur",
+      "intention": "Explorer un mouvement confortable, sans recherche de résultat.",
+      "duration": "10 min",
+      "steps": [
+        "Choisis trois mouvements faciles pour toi",
+        "Réalise-les lentement en respectant tes limites",
+        "Repère celui qui t'a fait le plus de bien"
+      ],
+      "gentle_version": "Effectue un seul mouvement confortable.",
+      "encouragement": "Écouter ton corps est déjà une belle habitude.",
+      "reflection_question": "Quel mouvement aimerais-tu refaire ?",
+      "optional": true
+    },
+    {
+      "id": "2026-11-06",
+      "date": "2026-11-06",
+      "day": 6,
+      "month": 11,
+      "theme": "My Well-being Era",
+      "category": "bien-etre",
+      "title": "Créer mon coin cocooning",
+      "intention": "Aménager un petit espace qui invite au calme.",
+      "duration": "15 min",
+      "steps": [
+        "Choisis une table, une chaise ou un coin du lit",
+        "Retire ce qui encombre cet espace",
+        "Ajoute un élément agréable : plaid, lumière douce ou livre"
+      ],
+      "gentle_version": "Range simplement un petit objet.",
+      "encouragement": "Tu mérites un espace dans lequel tu te sens bien.",
+      "reflection_question": "Qu'est-ce qui rend ce coin réconfortant ?",
+      "optional": true
+    },
+    {
+      "id": "2026-11-07",
+      "date": "2026-11-07",
+      "day": 7,
+      "month": 11,
+      "theme": "My Well-being Era",
+      "category": "bien-etre",
+      "title": "Faire un premier bilan",
+      "intention": "Repérer les gestes qui t'ont fait du bien cette semaine.",
+      "duration": "10 min",
+      "steps": [
+        "Relis mentalement tes six premières journées",
+        "Note un moment agréable et une difficulté",
+        "Choisis une chose à garder pour la semaine suivante"
+      ],
+      "gentle_version": "Choisis oralement ton moment préféré.",
+      "encouragement": "Tu apprends à te connaître un jour après l'autre.",
+      "reflection_question": "Quel petit rituel veux-tu conserver ?",
+      "optional": true
+    },
+    {
+      "id": "2026-11-08",
+      "date": "2026-11-08",
+      "day": 8,
+      "month": 11,
+      "theme": "My Well-being Era",
+      "category": "bien-etre",
+      "title": "Marcher en pleine conscience",
+      "intention": "Retrouver le plaisir de bouger et d'observer ton environnement.",
+      "duration": "15–20 min",
+      "steps": [
+        "Choisis un trajet simple et agréable",
+        "Observe trois détails que tu ne remarques pas d'habitude",
+        "Reviens en te demandant ce que cette marche t'a apporté"
+      ],
+      "gentle_version": "Ouvre la fenêtre et observe le dehors pendant deux minutes.",
+      "encouragement": "Avancer doucement, c'est avancer quand même.",
+      "reflection_question": "Qu'as-tu remarqué autour de toi ?",
+      "optional": true
+    },
+    {
+      "id": "2026-11-09",
+      "date": "2026-11-09",
+      "day": 9,
+      "month": 11,
+      "theme": "My Well-being Era",
+      "category": "bien-etre",
+      "title": "Remercier mon corps",
+      "intention": "Développer un regard plus respectueux sur ton corps.",
+      "duration": "10 min",
+      "steps": [
+        "Pense à trois choses que ton corps te permet de vivre",
+        "Note-les sans parler d'apparence",
+        "Choisis une phrase bienveillante à lui adresser"
+      ],
+      "gentle_version": "Remercie ton corps pour une seule chose.",
+      "encouragement": "Ton corps mérite du respect à chaque étape.",
+      "reflection_question": "Qu'aimerais-tu apprécier davantage chez toi ?",
+      "optional": true
+    },
+    {
+      "id": "2026-11-10",
+      "date": "2026-11-10",
+      "day": 10,
+      "month": 11,
+      "theme": "My Well-being Era",
+      "category": "bien-etre",
+      "title": "Créer un rituel de soins",
+      "intention": "Transformer un soin ordinaire en moment agréable.",
+      "duration": "15 min",
+      "steps": [
+        "Choisis une routine simple et adaptée à toi",
+        "Prépare tranquillement ce dont tu as besoin",
+        "Fais chaque geste sans te presser"
+      ],
+      "gentle_version": "Prends le temps de te laver les mains ou d'appliquer une crème habituelle.",
+      "encouragement": "Prendre soin de toi n'a pas besoin d'être compliqué.",
+      "reflection_question": "Quel petit soin te fait du bien ?",
+      "optional": true
+    },
+    {
+      "id": "2026-11-11",
+      "date": "2026-11-11",
+      "day": 11,
+      "month": 11,
+      "theme": "My Well-being Era",
+      "category": "bien-etre",
+      "title": "Essayer une respiration calme",
+      "intention": "Explorer une façon simple de faire une pause.",
+      "duration": "3–5 min",
+      "steps": [
+        "Assieds-toi confortablement",
+        "Laisse ta respiration devenir naturelle et un peu plus lente si c'est agréable",
+        "Observe l'air qui entre et sort sans chercher à contrôler"
+      ],
+      "gentle_version": "Prends trois respirations confortables.",
+      "encouragement": "Tu peux t'accorder un instant de calme.",
+      "reflection_question": "Comment te sens-tu à la fin ?",
+      "optional": true
+    },
+    {
+      "id": "2026-11-12",
+      "date": "2026-11-12",
+      "day": 12,
+      "month": 11,
+      "theme": "My Well-being Era",
+      "category": "bien-etre",
+      "title": "Choisir un mouvement plaisant",
+      "intention": "Trouver une activité physique qui ressemble à un plaisir.",
+      "duration": "10–20 min",
+      "steps": [
+        "Choisis entre danse, balade ou mobilité douce",
+        "Mets une musique agréable si tu en as envie",
+        "Bouge à ton rythme et arrête si c'est inconfortable"
+      ],
+      "gentle_version": "Danse ou étire-toi pendant une chanson.",
+      "encouragement": "Le mouvement n'a pas besoin d'être une punition.",
+      "reflection_question": "Qu'as-tu préféré dans cette activité ?",
+      "optional": true
+    },
+    {
+      "id": "2026-11-13",
+      "date": "2026-11-13",
+      "day": 13,
+      "month": 11,
+      "theme": "My Well-being Era",
+      "category": "bien-etre",
+      "title": "Écouter mes besoins",
+      "intention": "Reconnaître les signaux de fatigue, de faim et d'énergie.",
+      "duration": "10 min",
+      "steps": [
+        "Fais un rapide point sur ton énergie",
+        "Demande-toi ce qui te ferait du bien aujourd'hui",
+        "Choisis une réponse réaliste : repos, eau, repas ou activité douce"
+      ],
+      "gentle_version": "Pose-toi une seule question : de quoi ai-je besoin ?",
+      "encouragement": "Tes besoins méritent d'être entendus.",
+      "reflection_question": "Quel besoin as-tu identifié ?",
+      "optional": true
+    },
+    {
+      "id": "2026-11-14",
+      "date": "2026-11-14",
+      "day": 14,
+      "month": 11,
+      "theme": "My Well-being Era",
+      "category": "bien-etre",
+      "title": "M'offrir une soirée reposante",
+      "intention": "Préparer un moment de fin de journée apaisant.",
+      "duration": "20 min",
+      "steps": [
+        "Choisis une activité calme qui te plaît",
+        "Prépare une ambiance confortable",
+        "Autorise-toi à ne rien ajouter à ta liste de tâches"
+      ],
+      "gentle_version": "Écoute une chanson apaisante.",
+      "encouragement": "Le repos n'est pas une récompense à gagner.",
+      "reflection_question": "Qu'est-ce qui t'a aidée à ralentir ?",
+      "optional": true
+    },
+    {
+      "id": "2026-11-15",
+      "date": "2026-11-15",
+      "day": 15,
+      "month": 11,
+      "theme": "My Well-being Era",
+      "category": "bien-etre",
+      "title": "Nommer mes émotions",
+      "intention": "Mettre des mots sur ce que tu traverses.",
+      "duration": "10 min",
+      "steps": [
+        "Choisis une ou deux émotions ressenties aujourd'hui",
+        "Note si un événement a pu les déclencher",
+        "Accueille-les sans chercher à les corriger"
+      ],
+      "gentle_version": "Choisis simplement un emoji qui correspond à ton ressenti.",
+      "encouragement": "Toutes tes émotions ont leur place.",
+      "reflection_question": "Quelle émotion aimerais-tu mieux comprendre ?",
+      "optional": true
+    },
+    {
+      "id": "2026-11-16",
+      "date": "2026-11-16",
+      "day": 16,
+      "month": 11,
+      "theme": "My Well-being Era",
+      "category": "bien-etre",
+      "title": "Identifier une source de stress",
+      "intention": "Rendre une préoccupation un peu plus claire.",
+      "duration": "10 min",
+      "steps": [
+        "Écris une chose qui te préoccupe",
+        "Sépare ce qui dépend de toi de ce qui ne dépend pas de toi",
+        "Choisis une toute petite action possible, ou décide de la reporter"
+      ],
+      "gentle_version": "Nomme uniquement ta préoccupation.",
+      "encouragement": "Tu n'as pas à tout résoudre d'un coup.",
+      "reflection_question": "Quelle partie de cette situation peux-tu alléger ?",
+      "optional": true
+    },
+    {
+      "id": "2026-11-17",
+      "date": "2026-11-17",
+      "day": 17,
+      "month": 11,
+      "theme": "My Well-being Era",
+      "category": "bien-etre",
+      "title": "Faire une pause réseaux sociaux",
+      "intention": "Observer ton rapport aux écrans sans jugement.",
+      "duration": "30 min",
+      "steps": [
+        "Choisis une plage de trente minutes",
+        "Éloigne ton téléphone ou coupe les notifications facultatives",
+        "Profite d'une activité de remplacement"
+      ],
+      "gentle_version": "Fais une pause de cinq minutes.",
+      "encouragement": "Ton attention t'appartient.",
+      "reflection_question": "Qu'as-tu fait pendant ce temps ?",
+      "optional": true
+    },
+    {
+      "id": "2026-11-18",
+      "date": "2026-11-18",
+      "day": 18,
+      "month": 11,
+      "theme": "My Well-being Era",
+      "category": "bien-etre",
+      "title": "Créer sans objectif",
+      "intention": "T'autoriser à faire quelque chose uniquement pour le plaisir.",
+      "duration": "20 min",
+      "steps": [
+        "Choisis dessin, photo, collage ou écriture",
+        "Crée sans chercher un résultat parfait",
+        "Regarde ce que tu as aimé dans le processus"
+      ],
+      "gentle_version": "Dessine une petite forme ou prends une photo.",
+      "encouragement": "La créativité n'a pas besoin d'être évaluée.",
+      "reflection_question": "Quel détail de ta création aimes-tu ?",
+      "optional": true
+    },
+    {
+      "id": "2026-11-19",
+      "date": "2026-11-19",
+      "day": 19,
+      "month": 11,
+      "theme": "My Well-being Era",
+      "category": "bien-etre",
+      "title": "Me parler avec gentillesse",
+      "intention": "Apprendre à répondre plus doucement à ton autocritique.",
+      "duration": "10 min",
+      "steps": [
+        "Repère une phrase dure que tu te dis parfois",
+        "Imagine comment tu parlerais à une amie dans la même situation",
+        "Réécris cette phrase de manière plus juste et bienveillante"
+      ],
+      "gentle_version": "Note simplement : je fais de mon mieux aujourd'hui.",
+      "encouragement": "Tu mérites ta propre bienveillance.",
+      "reflection_question": "Quelle phrase aimerais-tu retenir ?",
+      "optional": true
+    },
+    {
+      "id": "2026-11-20",
+      "date": "2026-11-20",
+      "day": 20,
+      "month": 11,
+      "theme": "My Well-being Era",
+      "category": "bien-etre",
+      "title": "Poser une petite limite",
+      "intention": "Respecter ton temps et ton énergie.",
+      "duration": "10 min",
+      "steps": [
+        "Repère une demande qui te pèse",
+        "Réfléchis à une réponse honnête et respectueuse",
+        "Essaie de reporter ou refuser une chose non urgente si nécessaire"
+      ],
+      "gentle_version": "Écris une phrase comme : je te répondrai plus tard.",
+      "encouragement": "Dire non à une chose peut être dire oui à ton équilibre.",
+      "reflection_question": "Quelle limite pourrait t'aider cette semaine ?",
+      "optional": true
+    },
+    {
+      "id": "2026-11-21",
+      "date": "2026-11-21",
+      "day": 21,
+      "month": 11,
+      "theme": "My Well-being Era",
+      "category": "bien-etre",
+      "title": "Décharger mon esprit",
+      "intention": "Mettre sur papier les pensées qui prennent de la place.",
+      "duration": "10 min",
+      "steps": [
+        "Prends une feuille ou ouvre ton journal",
+        "Écris librement tout ce qui te traverse l'esprit",
+        "Entoure une priorité et laisse le reste pour plus tard"
+      ],
+      "gentle_version": "Écris seulement trois mots.",
+      "encouragement": "Tu n'es pas obligée de tout porter en même temps.",
+      "reflection_question": "Qu'est-ce qui peut attendre demain ?",
+      "optional": true
+    },
+    {
+      "id": "2026-11-22",
+      "date": "2026-11-22",
+      "day": 22,
+      "month": 11,
+      "theme": "My Well-being Era",
+      "category": "bien-etre",
+      "title": "Faire une chose juste pour moi",
+      "intention": "Réserver un vrai moment au plaisir personnel.",
+      "duration": "20 min",
+      "steps": [
+        "Liste trois activités simples qui te plaisent",
+        "Choisis-en une sans justification",
+        "Profite du moment sans chercher à être productive"
+      ],
+      "gentle_version": "Consacre cinq minutes à une activité agréable.",
+      "encouragement": "Ton plaisir mérite une place dans ta journée.",
+      "reflection_question": "Qu'est-ce qui t'a fait sourire ?",
+      "optional": true
+    },
+    {
+      "id": "2026-11-23",
+      "date": "2026-11-23",
+      "day": 23,
+      "month": 11,
+      "theme": "My Well-being Era",
+      "category": "bien-etre",
+      "title": "Partager un bon moment",
+      "intention": "Entretenir un lien qui te fait du bien.",
+      "duration": "15–30 min",
+      "steps": [
+        "Pense à une personne auprès de qui tu te sens à l'aise",
+        "Propose un appel, un message ou une activité",
+        "Prends le temps d'apprécier cet échange"
+      ],
+      "gentle_version": "Envoie simplement un petit mot attentionné.",
+      "encouragement": "Tu peux chercher de la présence sans devoir tout expliquer.",
+      "reflection_question": "Quel échange t'a réchauffé le cœur ?",
+      "optional": true
+    },
+    {
+      "id": "2026-11-24",
+      "date": "2026-11-24",
+      "day": 24,
+      "month": 11,
+      "theme": "My Well-being Era",
+      "category": "bien-etre",
+      "title": "M'écrire une lettre douce",
+      "intention": "Prendre du recul sur ton parcours avec gentillesse.",
+      "duration": "15 min",
+      "steps": [
+        "Commence par : chère moi",
+        "Écris ce que tu traverses et ce dont tu es fière",
+        "Termine par un encouragement sincère"
+      ],
+      "gentle_version": "Écris seulement une phrase d'encouragement.",
+      "encouragement": "Les mots que tu t'adresses ont de l'importance.",
+      "reflection_question": "Quelle phrase voudrais-tu relire plus tard ?",
+      "optional": true
+    },
+    {
+      "id": "2026-11-25",
+      "date": "2026-11-25",
+      "day": 25,
+      "month": 11,
+      "theme": "My Well-being Era",
+      "category": "bien-etre",
+      "title": "Mettre les comparaisons en pause",
+      "intention": "Revenir à ton chemin plutôt qu'à celui des autres.",
+      "duration": "10 min",
+      "steps": [
+        "Repère une situation où tu te compares",
+        "Rappelle-toi que tu ne vois qu'une partie du parcours des autres",
+        "Note une chose qui compte dans ton propre chemin"
+      ],
+      "gentle_version": "Ferme pendant cinq minutes l'application qui déclenche cette comparaison.",
+      "encouragement": "Ton rythme n'a pas à ressembler à celui des autres.",
+      "reflection_question": "Quel progrès personnel reconnais-tu ?",
+      "optional": true
+    },
+    {
+      "id": "2026-11-26",
+      "date": "2026-11-26",
+      "day": 26,
+      "month": 11,
+      "theme": "My Well-being Era",
+      "category": "bien-etre",
+      "title": "Prendre l'air",
+      "intention": "T'offrir un changement d'ambiance simple.",
+      "duration": "20 min",
+      "steps": [
+        "Choisis un endroit accessible et agréable",
+        "Marche ou reste dehors à ton rythme",
+        "Observe la lumière, les sons ou la température"
+      ],
+      "gentle_version": "Ouvre la fenêtre et reste un instant près d'elle.",
+      "encouragement": "Un peu d'espace peut faire du bien.",
+      "reflection_question": "Quel détail du dehors as-tu aimé ?",
+      "optional": true
+    },
+    {
+      "id": "2026-11-27",
+      "date": "2026-11-27",
+      "day": 27,
+      "month": 11,
+      "theme": "My Well-being Era",
+      "category": "bien-etre",
+      "title": "Reconnaître mes qualités",
+      "intention": "Identifier ce que tu apportes et ce qui te rend unique.",
+      "duration": "10 min",
+      "steps": [
+        "Écris cinq qualités ou forces personnelles",
+        "Associe à l'une d'elles un exemple concret",
+        "Relis ta liste sans la minimiser"
+      ],
+      "gentle_version": "Écris une seule qualité.",
+      "encouragement": "Tu peux reconnaître ta valeur sans te justifier.",
+      "reflection_question": "Quelle qualité aimerais-tu davantage cultiver ?",
+      "optional": true
+    },
+    {
+      "id": "2026-11-28",
+      "date": "2026-11-28",
+      "day": 28,
+      "month": 11,
+      "theme": "My Well-being Era",
+      "category": "bien-etre",
+      "title": "Créer une soirée réconfortante",
+      "intention": "Composer une fin de journée selon tes envies.",
+      "duration": "30 min",
+      "steps": [
+        "Choisis une boisson ou une collation appréciée",
+        "Installe une ambiance confortable",
+        "Prends le temps d'un film, d'un livre ou d'un moment tranquille"
+      ],
+      "gentle_version": "Prépare juste une boisson chaude ou une lumière douce.",
+      "encouragement": "Tu as le droit d'avoir une soirée toute simple.",
+      "reflection_question": "Quel détail a rendu cette soirée agréable ?",
+      "optional": true
+    },
+    {
+      "id": "2026-11-29",
+      "date": "2026-11-29",
+      "day": 29,
+      "month": 11,
+      "theme": "My Well-being Era",
+      "category": "bien-etre",
+      "title": "Reprendre mon rituel préféré",
+      "intention": "Identifier ce qui fonctionne réellement pour toi.",
+      "duration": "15 min",
+      "steps": [
+        "Relis les missions réalisées ce mois-ci",
+        "Choisis celle qui t'a le plus aidée",
+        "Refais-la librement, à ta manière"
+      ],
+      "gentle_version": "Reprends une version de deux minutes de ton activité préférée.",
+      "encouragement": "Tu as le droit de revenir aux choses qui te font du bien.",
+      "reflection_question": "Quelle pratique voudrais-tu continuer ?",
+      "optional": true
+    },
+    {
+      "id": "2026-11-30",
+      "date": "2026-11-30",
+      "day": 30,
+      "month": 11,
+      "theme": "My Well-being Era",
+      "category": "bien-etre",
+      "title": "Célébrer mon mois de douceur",
+      "intention": "Faire le bilan sans te juger sur le nombre de cases cochées.",
+      "duration": "20 min",
+      "steps": [
+        "Écris trois choses que tu as découvertes sur toi",
+        "Choisis trois pratiques que tu aimerais garder",
+        "Félicite-toi pour le chemin parcouru, quel qu'il soit"
+      ],
+      "gentle_version": "Note une seule chose positive du mois.",
+      "encouragement": "Ton parcours a de la valeur, même imparfait.",
+      "reflection_question": "Qu'aimerais-tu emporter avec toi en décembre ?",
+      "optional": true
+    },
+    {
+      "id": "2026-12-01",
+      "date": "2026-12-01",
+      "day": 1,
+      "month": 12,
+      "theme": "My Learning Era",
+      "category": "apprentissage",
+      "title": "Découvrir une méthode d'apprentissage",
+      "intention": "Tester une façon simple de rester concentrée.",
+      "duration": "20 min",
+      "steps": [
+        "Choisis une mini-tâche qui t'intéresse",
+        "Essaie 15 minutes de concentration puis 5 minutes de pause",
+        "Observe si ce rythme te convient"
+      ],
+      "gentle_version": "Teste seulement cinq minutes de concentration.",
+      "encouragement": "Tu peux apprendre à ton propre rythme.",
+      "reflection_question": "Cette méthode te convient-elle ?",
+      "optional": true
+    },
+    {
+      "id": "2026-12-02",
+      "date": "2026-12-02",
+      "day": 2,
+      "month": 12,
+      "theme": "My Learning Era",
+      "category": "apprentissage",
+      "title": "Apprendre cinq mots d'anglais",
+      "intention": "Enrichir ton vocabulaire de façon ludique.",
+      "duration": "15 min",
+      "steps": [
+        "Choisis un thème que tu aimes",
+        "Recherche cinq mots et leur prononciation",
+        "Invente une phrase simple avec deux d'entre eux"
+      ],
+      "gentle_version": "Apprends un seul mot.",
+      "encouragement": "Chaque mot appris ouvre une nouvelle petite porte.",
+      "reflection_question": "Quel mot as-tu envie de réutiliser ?",
+      "optional": true
+    },
+    {
+      "id": "2026-12-03",
+      "date": "2026-12-03",
+      "day": 3,
+      "month": 12,
+      "theme": "My Learning Era",
+      "category": "apprentissage",
+      "title": "Explorer une routine matinale",
+      "intention": "Découvrir plusieurs façons de bien commencer une journée.",
+      "duration": "15 min",
+      "steps": [
+        "Observe deux idées de routines courtes",
+        "Repère ce qui semble réaliste pour toi",
+        "Écris une version de trois gestes à tester un autre jour"
+      ],
+      "gentle_version": "Choisis un seul geste du matin.",
+      "encouragement": "Une routine peut s'adapter à toi, pas l'inverse.",
+      "reflection_question": "Qu'aimerais-tu retrouver dans tes matins ?",
+      "optional": true
+    },
+    {
+      "id": "2026-12-04",
+      "date": "2026-12-04",
+      "day": 4,
+      "month": 12,
+      "theme": "My Learning Era",
+      "category": "apprentissage",
+      "title": "Photographie : le cadrage",
+      "intention": "Apprendre à mieux composer une image.",
+      "duration": "20 min",
+      "steps": [
+        "Active la grille de ton appareil photo",
+        "Prends une photo en plaçant le sujet au centre",
+        "Prends-en une autre en le décalant sur un tiers et compare"
+      ],
+      "gentle_version": "Prends une seule photo en utilisant la grille.",
+      "encouragement": "Ton regard a sa propre sensibilité.",
+      "reflection_question": "Quelle composition préfères-tu ?",
+      "optional": true
+    },
+    {
+      "id": "2026-12-05",
+      "date": "2026-12-05",
+      "day": 5,
+      "month": 12,
+      "theme": "My Learning Era",
+      "category": "apprentissage",
+      "title": "Voyage dans une époque historique",
+      "intention": "Satisfaire ta curiosité à travers l'histoire.",
+      "duration": "20 min",
+      "steps": [
+        "Choisis une époque qui t'intrigue",
+        "Découvre trois faits fiables à son sujet",
+        "Écris celui qui t'a le plus surprise"
+      ],
+      "gentle_version": "Découvre un seul fait historique.",
+      "encouragement": "La curiosité est déjà un merveilleux début.",
+      "reflection_question": "Quelle question te reste-t-il ?",
+      "optional": true
+    },
+    {
+      "id": "2026-12-06",
+      "date": "2026-12-06",
+      "day": 6,
+      "month": 12,
+      "theme": "My Learning Era",
+      "category": "apprentissage",
+      "title": "Organiser mes notes",
+      "intention": "Apprendre une méthode de prise de notes claire.",
+      "duration": "15 min",
+      "steps": [
+        "Choisis un sujet qui t'intéresse",
+        "Crée un titre, trois sous-parties et une conclusion",
+        "Ajoute une couleur ou un symbole pour guider la lecture"
+      ],
+      "gentle_version": "Réorganise simplement trois phrases.",
+      "encouragement": "Une idée bien rangée est plus facile à retrouver.",
+      "reflection_question": "Quelle mise en page préfères-tu ?",
+      "optional": true
+    },
+    {
+      "id": "2026-12-07",
+      "date": "2026-12-07",
+      "day": 7,
+      "month": 12,
+      "theme": "My Learning Era",
+      "category": "apprentissage",
+      "title": "Mon mini-bilan d'apprentissage",
+      "intention": "Reconnaître ce que tu as découvert cette semaine.",
+      "duration": "10 min",
+      "steps": [
+        "Repense aux six premières missions",
+        "Choisis tes trois découvertes préférées",
+        "Note une compétence que tu voudrais explorer davantage"
+      ],
+      "gentle_version": "Choisis juste ton moment préféré.",
+      "encouragement": "Tu apprends bien plus que tu ne le crois.",
+      "reflection_question": "Quelle découverte t'a donné envie de continuer ?",
+      "optional": true
+    },
+    {
+      "id": "2026-12-08",
+      "date": "2026-12-08",
+      "day": 8,
+      "month": 12,
+      "theme": "My Learning Era",
+      "category": "apprentissage",
+      "title": "Comprendre les bases du budget",
+      "intention": "Découvrir comment se répartissent les dépenses.",
+      "duration": "20 min",
+      "steps": [
+        "Apprends la différence entre dépenses fixes et variables",
+        "Imagine un budget fictif avec quelques catégories",
+        "Identifie une catégorie où anticiper pourrait aider"
+      ],
+      "gentle_version": "Classe deux dépenses en fixes ou variables.",
+      "encouragement": "Comprendre son argent donne davantage de choix.",
+      "reflection_question": "Quelle catégorie voudrais-tu mieux suivre ?",
+      "optional": true
+    },
+    {
+      "id": "2026-12-09",
+      "date": "2026-12-09",
+      "day": 9,
+      "month": 12,
+      "theme": "My Learning Era",
+      "category": "apprentissage",
+      "title": "Apprendre une recette simple",
+      "intention": "Découvrir une nouvelle préparation sans pression.",
+      "duration": "20–30 min",
+      "steps": [
+        "Choisis une recette courte et adaptée à ce que tu as",
+        "Lis toutes les étapes avant de commencer",
+        "Prépare-la tranquillement en respectant les consignes de sécurité"
+      ],
+      "gentle_version": "Découvre une recette et note les ingrédients pour plus tard.",
+      "encouragement": "Apprendre passe aussi par les petits essais.",
+      "reflection_question": "Qu'aimerais-tu refaire ou modifier ?",
+      "optional": true
+    },
+    {
+      "id": "2026-12-10",
+      "date": "2026-12-10",
+      "day": 10,
+      "month": 12,
+      "theme": "My Learning Era",
+      "category": "apprentissage",
+      "title": "Dessiner les ombres",
+      "intention": "Tester une technique artistique accessible.",
+      "duration": "20 min",
+      "steps": [
+        "Choisis un objet simple à dessiner",
+        "Imagine d'où vient la lumière",
+        "Ajoute une zone claire, moyenne et foncée"
+      ],
+      "gentle_version": "Dessine une sphère avec une seule ombre.",
+      "encouragement": "Il n'y a pas besoin d'être artiste pour créer.",
+      "reflection_question": "Qu'as-tu découvert sur la lumière ?",
+      "optional": true
+    },
+    {
+      "id": "2026-12-11",
+      "date": "2026-12-11",
+      "day": 11,
+      "month": 12,
+      "theme": "My Learning Era",
+      "category": "apprentissage",
+      "title": "Mémoriser avec des cartes",
+      "intention": "Découvrir une méthode ludique pour retenir des informations.",
+      "duration": "15 min",
+      "steps": [
+        "Choisis trois connaissances récentes",
+        "Écris une question au recto et sa réponse au verso",
+        "Teste-toi après une courte pause"
+      ],
+      "gentle_version": "Crée une seule carte mémoire.",
+      "encouragement": "Apprendre, c'est aussi avoir le droit d'oublier puis de revoir.",
+      "reflection_question": "Quelle carte te paraît la plus utile ?",
+      "optional": true
+    },
+    {
+      "id": "2026-12-12",
+      "date": "2026-12-12",
+      "day": 12,
+      "month": 12,
+      "theme": "My Learning Era",
+      "category": "apprentissage",
+      "title": "Découvrir une culture étrangère",
+      "intention": "Voyager par la curiosité sans quitter son canapé.",
+      "duration": "20 min",
+      "steps": [
+        "Choisis un pays qui t'intrigue",
+        "Découvre une tradition, un plat et une œuvre culturelle",
+        "Note ce que tu aimerais approfondir"
+      ],
+      "gentle_version": "Découvre une tradition.",
+      "encouragement": "Le monde regorge de choses passionnantes.",
+      "reflection_question": "Qu'aimerais-tu découvrir ensuite ?",
+      "optional": true
+    },
+    {
+      "id": "2026-12-13",
+      "date": "2026-12-13",
+      "day": 13,
+      "month": 12,
+      "theme": "My Learning Era",
+      "category": "apprentissage",
+      "title": "Composer une playlist thématique",
+      "intention": "Apprendre à créer une ambiance musicale cohérente.",
+      "duration": "15 min",
+      "steps": [
+        "Choisis une émotion ou un moment précis",
+        "Sélectionne cinq morceaux qui correspondent",
+        "Réorganise leur ordre pour créer une progression agréable"
+      ],
+      "gentle_version": "Sélectionne deux morceaux.",
+      "encouragement": "Tu peux créer une ambiance qui te ressemble.",
+      "reflection_question": "À quel moment aimerais-tu écouter cette playlist ?",
+      "optional": true
+    },
+    {
+      "id": "2026-12-14",
+      "date": "2026-12-14",
+      "day": 14,
+      "month": 12,
+      "theme": "My Learning Era",
+      "category": "apprentissage",
+      "title": "Tester une routine du soir",
+      "intention": "Expérimenter une transition douce vers la nuit.",
+      "duration": "20 min",
+      "steps": [
+        "Choisis trois gestes calmes et réalistes",
+        "Teste leur enchaînement ce soir si tu en as envie",
+        "Garde ce qui te convient et change le reste"
+      ],
+      "gentle_version": "Teste un geste pendant deux minutes.",
+      "encouragement": "Une bonne routine doit te simplifier la vie.",
+      "reflection_question": "Quel geste a été le plus agréable ?",
+      "optional": true
+    },
+    {
+      "id": "2026-12-15",
+      "date": "2026-12-15",
+      "day": 15,
+      "month": 12,
+      "theme": "My Learning Era",
+      "category": "apprentissage",
+      "title": "Découvrir une artiste inspirante",
+      "intention": "Explorer un parcours créatif et ses œuvres.",
+      "duration": "20 min",
+      "steps": [
+        "Choisis une artiste qui t'intrigue",
+        "Découvre deux œuvres et un élément de son parcours",
+        "Note ce que tu admires ou questionnes dans son travail"
+      ],
+      "gentle_version": "Observe une œuvre pendant deux minutes.",
+      "encouragement": "L'inspiration se trouve dans mille univers.",
+      "reflection_question": "Qu'est-ce qui t'a marquée dans son travail ?",
+      "optional": true
+    },
+    {
+      "id": "2026-12-16",
+      "date": "2026-12-16",
+      "day": 16,
+      "month": 12,
+      "theme": "My Learning Era",
+      "category": "apprentissage",
+      "title": "Comprendre les saisons",
+      "intention": "Découvrir pourquoi les saisons changent sur Terre.",
+      "duration": "15 min",
+      "steps": [
+        "Découvre le rôle de l'inclinaison de l'axe terrestre",
+        "Observe un schéma des saisons",
+        "Explique l'idée avec tes propres mots"
+      ],
+      "gentle_version": "Retient seulement : l'inclinaison de l'axe change l'ensoleillement.",
+      "encouragement": "Comprendre un petit phénomène, c'est déjà grandir.",
+      "reflection_question": "Qu'est-ce qui t'a étonnée ?",
+      "optional": true
+    },
+    {
+      "id": "2026-12-17",
+      "date": "2026-12-17",
+      "day": 17,
+      "month": 12,
+      "theme": "My Learning Era",
+      "category": "apprentissage",
+      "title": "Découvrir une technique de montage",
+      "intention": "Expérimenter le rythme d'une courte vidéo.",
+      "duration": "20 min",
+      "steps": [
+        "Choisis deux ou trois petits clips personnels",
+        "Teste une coupe au rythme d'un changement de plan",
+        "Compare une version courte et une version plus lente"
+      ],
+      "gentle_version": "Regarde comment une transition est utilisée dans une vidéo.",
+      "encouragement": "Chaque essai affine ton regard créatif.",
+      "reflection_question": "Quel rythme correspond le mieux à ton style ?",
+      "optional": true
+    },
+    {
+      "id": "2026-12-18",
+      "date": "2026-12-18",
+      "day": 18,
+      "month": 12,
+      "theme": "My Learning Era",
+      "category": "apprentissage",
+      "title": "Planifier une semaine réaliste",
+      "intention": "Apprendre à répartir les activités et le repos.",
+      "duration": "20 min",
+      "steps": [
+        "Liste les obligations déjà présentes",
+        "Ajoute deux moments utiles et un vrai temps libre",
+        "Laisse volontairement des marges de manœuvre"
+      ],
+      "gentle_version": "Prévois seulement une activité et une pause.",
+      "encouragement": "Un planning est là pour t'aider, pas te contrôler.",
+      "reflection_question": "Où pourrais-tu laisser plus de place au repos ?",
+      "optional": true
+    },
+    {
+      "id": "2026-12-19",
+      "date": "2026-12-19",
+      "day": 19,
+      "month": 12,
+      "theme": "My Learning Era",
+      "category": "apprentissage",
+      "title": "Découvrir une tradition de Noël",
+      "intention": "Explorer la diversité des fêtes à travers le monde.",
+      "duration": "15 min",
+      "steps": [
+        "Choisis un pays",
+        "Découvre une tradition de fin d'année locale",
+        "Compare-la à une tradition que tu connais"
+      ],
+      "gentle_version": "Découvre une image et son explication.",
+      "encouragement": "Chaque culture raconte une histoire singulière.",
+      "reflection_question": "Quelle tradition t'a surprise ?",
+      "optional": true
+    },
+    {
+      "id": "2026-12-20",
+      "date": "2026-12-20",
+      "day": 20,
+      "month": 12,
+      "theme": "My Learning Era",
+      "category": "apprentissage",
+      "title": "Apprendre un mot français rare",
+      "intention": "Jouer avec la richesse de la langue.",
+      "duration": "10 min",
+      "steps": [
+        "Choisis un mot peu courant",
+        "Recherche sa définition dans un dictionnaire",
+        "Invente une phrase pour le retenir"
+      ],
+      "gentle_version": "Découvre seulement son sens.",
+      "encouragement": "Les mots peuvent être de jolies découvertes.",
+      "reflection_question": "Dans quelle phrase pourrais-tu l'utiliser ?",
+      "optional": true
+    },
+    {
+      "id": "2026-12-21",
+      "date": "2026-12-21",
+      "day": 21,
+      "month": 12,
+      "theme": "My Learning Era",
+      "category": "apprentissage",
+      "title": "Comprendre une composition visuelle",
+      "intention": "Découvrir comment couleurs et espaces guident le regard.",
+      "duration": "20 min",
+      "steps": [
+        "Observe une affiche ou une photographie",
+        "Repère la couleur dominante et le point focal",
+        "Essaie de reproduire sa structure en croquis simple"
+      ],
+      "gentle_version": "Repère seulement l'élément qui attire ton œil.",
+      "encouragement": "Ton regard s'entraîne à chaque observation.",
+      "reflection_question": "Qu'est-ce qui dirige ton regard ?",
+      "optional": true
+    },
+    {
+      "id": "2026-12-22",
+      "date": "2026-12-22",
+      "day": 22,
+      "month": 12,
+      "theme": "My Learning Era",
+      "category": "apprentissage",
+      "title": "Découvrir une relaxation guidée",
+      "intention": "Explorer un outil de détente sans obligation.",
+      "duration": "10 min",
+      "steps": [
+        "Choisis une courte relaxation ou un audio calme",
+        "Installe-toi confortablement",
+        "Observe simplement si cette méthode te plaît"
+      ],
+      "gentle_version": "Écoute une minute d'ambiance apaisante.",
+      "encouragement": "Tu es libre de garder ce qui te convient.",
+      "reflection_question": "Qu'as-tu aimé ou moins aimé ?",
+      "optional": true
+    },
+    {
+      "id": "2026-12-23",
+      "date": "2026-12-23",
+      "day": 23,
+      "month": 12,
+      "theme": "My Learning Era",
+      "category": "apprentissage",
+      "title": "Découvrir un livre ou un auteur",
+      "intention": "Ouvrir une fenêtre sur un nouvel univers.",
+      "duration": "15 min",
+      "steps": [
+        "Choisis un livre ou un auteur que tu ne connais pas",
+        "Lis un résumé puis quelques pages ou un extrait légalement accessible",
+        "Note une phrase ou une idée qui t'a marquée"
+      ],
+      "gentle_version": "Lis seulement la quatrième de couverture.",
+      "encouragement": "Une histoire peut commencer par une seule page.",
+      "reflection_question": "As-tu envie d'en lire davantage ?",
+      "optional": true
+    },
+    {
+      "id": "2026-12-24",
+      "date": "2026-12-24",
+      "day": 24,
+      "month": 12,
+      "theme": "My Learning Era",
+      "category": "apprentissage",
+      "title": "Créer un mini vision board",
+      "intention": "Apprendre à exprimer ses envies avec des images.",
+      "duration": "20 min",
+      "steps": [
+        "Choisis un thème pour les mois à venir",
+        "Sélectionne trois images ou mots qui l'illustrent",
+        "Assemble-les dans une petite planche harmonieuse"
+      ],
+      "gentle_version": "Écris trois mots inspirants.",
+      "encouragement": "Tes envies méritent d'être représentées.",
+      "reflection_question": "Quelle image reflète le mieux ton état d'esprit ?",
+      "optional": true
+    },
+    {
+      "id": "2026-12-25",
+      "date": "2026-12-25",
+      "day": 25,
+      "month": 12,
+      "theme": "My Learning Era",
+      "category": "apprentissage",
+      "title": "Découvrir l'histoire d'une invention",
+      "intention": "Comprendre comment naissent les objets du quotidien.",
+      "duration": "15 min",
+      "steps": [
+        "Choisis un objet que tu utilises souvent",
+        "Découvre qui l'a développé et comment il a évolué",
+        "Note une amélioration étonnante"
+      ],
+      "gentle_version": "Trouve la date approximative de son apparition.",
+      "encouragement": "Derrière les choses ordinaires se cachent de belles idées.",
+      "reflection_question": "Qu'est-ce qui t'a surprise ?",
+      "optional": true
+    },
+    {
+      "id": "2026-12-26",
+      "date": "2026-12-26",
+      "day": 26,
+      "month": 12,
+      "theme": "My Learning Era",
+      "category": "apprentissage",
+      "title": "Apprendre un raccourci numérique",
+      "intention": "Rendre une tâche sur ton appareil plus agréable.",
+      "duration": "10 min",
+      "steps": [
+        "Choisis une application que tu utilises souvent",
+        "Découvre une fonction ou un raccourci utile",
+        "Teste-le sur un exemple sans risque"
+      ],
+      "gentle_version": "Regarde simplement où se trouve la fonction.",
+      "encouragement": "Une petite astuce peut simplifier le quotidien.",
+      "reflection_question": "Quelle astuce souhaites-tu garder ?",
+      "optional": true
+    },
+    {
+      "id": "2026-12-27",
+      "date": "2026-12-27",
+      "day": 27,
+      "month": 12,
+      "theme": "My Learning Era",
+      "category": "apprentissage",
+      "title": "Tester une activité créative",
+      "intention": "Explorer une façon différente de créer.",
+      "duration": "20 min",
+      "steps": [
+        "Choisis origami, collage ou lettering",
+        "Prépare du matériel simple",
+        "Crée une petite réalisation en suivant tes envies"
+      ],
+      "gentle_version": "Fais seulement un pli ou un petit dessin.",
+      "encouragement": "La créativité est une exploration, pas un examen.",
+      "reflection_question": "Quel geste créatif t'a plu ?",
+      "optional": true
+    },
+    {
+      "id": "2026-12-28",
+      "date": "2026-12-28",
+      "day": 28,
+      "month": 12,
+      "theme": "My Learning Era",
+      "category": "apprentissage",
+      "title": "Transformer un objectif en étapes",
+      "intention": "Apprendre à rendre une envie plus accessible.",
+      "duration": "15 min",
+      "steps": [
+        "Choisis un objectif simple et personnel",
+        "Découpe-le en trois étapes concrètes",
+        "Définis une première action de moins de dix minutes"
+      ],
+      "gentle_version": "Écris une unique première étape.",
+      "encouragement": "Tu peux commencer petit sans réduire ton ambition.",
+      "reflection_question": "Quelle première action te paraît facile ?",
+      "optional": true
+    },
+    {
+      "id": "2026-12-29",
+      "date": "2026-12-29",
+      "day": 29,
+      "month": 12,
+      "theme": "My Learning Era",
+      "category": "apprentissage",
+      "title": "Découvrir une technique de rangement",
+      "intention": "Expérimenter une méthode pour clarifier un espace.",
+      "duration": "15 min",
+      "steps": [
+        "Choisis un tiroir ou une petite zone",
+        "Regroupe les objets par catégorie",
+        "Replace-les selon leur fréquence d'utilisation"
+      ],
+      "gentle_version": "Range trois objets appartenant à la même catégorie.",
+      "encouragement": "Il suffit parfois d'un petit espace pour se sentir mieux.",
+      "reflection_question": "Cette méthode t'a-t-elle aidée ?",
+      "optional": true
+    },
+    {
+      "id": "2026-12-30",
+      "date": "2026-12-30",
+      "day": 30,
+      "month": 12,
+      "theme": "My Learning Era",
+      "category": "apprentissage",
+      "title": "Réviser mes découvertes",
+      "intention": "Donner une deuxième vie aux apprentissages du mois.",
+      "duration": "20 min",
+      "steps": [
+        "Revois cinq thèmes explorés en décembre",
+        "Essaie de rappeler un fait pour chacun sans regarder",
+        "Relis les éléments oubliés sans te juger"
+      ],
+      "gentle_version": "Revois une découverte.",
+      "encouragement": "Revenir sur une idée, c'est aussi apprendre.",
+      "reflection_question": "Quelle découverte retiens-tu le mieux ?",
+      "optional": true
+    },
+    {
+      "id": "2026-12-31",
+      "date": "2026-12-31",
+      "day": 31,
+      "month": 12,
+      "theme": "My Learning Era",
+      "category": "apprentissage",
+      "title": "Créer mon carnet de connaissances",
+      "intention": "Rassembler les petites choses apprises en décembre.",
+      "duration": "25 min",
+      "steps": [
+        "Choisis dix découvertes ou moins si tu préfères",
+        "Classe-les dans des rubriques qui te plaisent",
+        "Ajoute une envie d'apprentissage pour l'année suivante"
+      ],
+      "gentle_version": "Note tes deux découvertes préférées.",
+      "encouragement": "Ta curiosité a dessiné un joli chemin.",
+      "reflection_question": "Qu'aimerais-tu apprendre ensuite ?",
+      "optional": true
+    },
+    {
+      "id": "2027-01-01",
+      "date": "2027-01-01",
+      "day": 1,
+      "month": 1,
+      "theme": "My New Habits Era",
+      "category": "habitudes",
+      "title": "Choisir trois priorités",
+      "intention": "Expérimenter un début de journée plus clair.",
+      "duration": "5 min",
+      "steps": [
+        "Note les choses importantes du jour",
+        "Sélectionne trois priorités réalistes",
+        "Laisse de la place aux imprévus"
+      ],
+      "gentle_version": "Choisis une seule priorité.",
+      "encouragement": "Ta valeur ne dépend pas de ta liste de tâches.",
+      "reflection_question": "Cette sélection t'a-t-elle aidée ?",
+      "optional": true
+    },
+    {
+      "id": "2027-01-02",
+      "date": "2027-01-02",
+      "day": 2,
+      "month": 1,
+      "theme": "My New Habits Era",
+      "category": "habitudes",
+      "title": "Boire de l'eau au réveil",
+      "intention": "Tester un geste simple de début de journée.",
+      "duration": "2 min",
+      "steps": [
+        "Prépare un verre ou une gourde accessible",
+        "Prends quelques gorgées au réveil selon ton envie",
+        "Observe si ce geste s'intègre naturellement à ta matinée"
+      ],
+      "gentle_version": "Prends une gorgée si tu as soif.",
+      "encouragement": "Les habitudes simples sont parfois les plus faciles à garder.",
+      "reflection_question": "Ce geste t'a-t-il convenu ?",
+      "optional": true
+    },
+    {
+      "id": "2027-01-03",
+      "date": "2027-01-03",
+      "day": 3,
+      "month": 1,
+      "theme": "My New Habits Era",
+      "category": "habitudes",
+      "title": "Faire mon lit",
+      "intention": "Tester un petit rituel pour organiser mon espace.",
+      "duration": "3 min",
+      "steps": [
+        "Aère ton lit un instant",
+        "Remets la couette et les oreillers à ta façon",
+        "Observe si tu apprécies le résultat"
+      ],
+      "gentle_version": "Remets juste les oreillers en place.",
+      "encouragement": "Une petite action suffit pour commencer.",
+      "reflection_question": "Est-ce agréable de retrouver le lit ainsi ?",
+      "optional": true
+    },
+    {
+      "id": "2027-01-04",
+      "date": "2027-01-04",
+      "day": 4,
+      "month": 1,
+      "theme": "My New Habits Era",
+      "category": "habitudes",
+      "title": "Créer ma routine matinale",
+      "intention": "Choisir un démarrage de journée qui te ressemble.",
+      "duration": "10 min",
+      "steps": [
+        "Imagine trois actions faciles au réveil",
+        "Mets-les dans l'ordre qui te convient",
+        "Teste-les sans chercher la régularité parfaite"
+      ],
+      "gentle_version": "Choisis seulement un geste.",
+      "encouragement": "Tes matins peuvent être simples et doux.",
+      "reflection_question": "Quel geste aimerais-tu répéter ?",
+      "optional": true
+    },
+    {
+      "id": "2027-01-05",
+      "date": "2027-01-05",
+      "day": 5,
+      "month": 1,
+      "theme": "My New Habits Era",
+      "category": "habitudes",
+      "title": "Noter mes dépenses",
+      "intention": "Faire un premier essai de suivi financier sans jugement.",
+      "duration": "10 min",
+      "steps": [
+        "Liste les dépenses réalisées aujourd'hui",
+        "Classe-les dans deux ou trois catégories",
+        "Observe sans te critiquer ce qui t'a surprise"
+      ],
+      "gentle_version": "Note une seule dépense.",
+      "encouragement": "Regarder ses dépenses, c'est mieux comprendre ses choix.",
+      "reflection_question": "Quelle catégorie aimerais-tu suivre ?",
+      "optional": true
+    },
+    {
+      "id": "2027-01-06",
+      "date": "2027-01-06",
+      "day": 6,
+      "month": 1,
+      "theme": "My New Habits Era",
+      "category": "habitudes",
+      "title": "Ajouter une petite marche",
+      "intention": "Tester une activité facile à intégrer au quotidien.",
+      "duration": "15 min",
+      "steps": [
+        "Choisis un créneau qui te convient",
+        "Marche à une allure confortable",
+        "Note si tu préfères marcher seule ou accompagnée"
+      ],
+      "gentle_version": "Marche cinq minutes ou prends l'air près de chez toi.",
+      "encouragement": "Chaque mouvement peut compter à sa façon.",
+      "reflection_question": "Quel créneau était le plus agréable ?",
+      "optional": true
+    },
+    {
+      "id": "2027-01-07",
+      "date": "2027-01-07",
+      "day": 7,
+      "month": 1,
+      "theme": "My New Habits Era",
+      "category": "habitudes",
+      "title": "Ranger dix minutes",
+      "intention": "Découvrir le rangement en petite séquence.",
+      "duration": "10 min",
+      "steps": [
+        "Choisis un endroit précis",
+        "Lance un minuteur de dix minutes",
+        "Arrête-toi à la fin même si tout n'est pas terminé"
+      ],
+      "gentle_version": "Range seulement trois objets.",
+      "encouragement": "Un espace n'a pas besoin d'être parfait.",
+      "reflection_question": "Cette durée te paraît-elle réaliste ?",
+      "optional": true
+    },
+    {
+      "id": "2027-01-08",
+      "date": "2027-01-08",
+      "day": 8,
+      "month": 1,
+      "theme": "My New Habits Era",
+      "category": "habitudes",
+      "title": "Préparer mes affaires la veille",
+      "intention": "Réduire les décisions à prendre le lendemain.",
+      "duration": "5 min",
+      "steps": [
+        "Regarde ce qui t'attend demain",
+        "Prépare vêtements ou objets indispensables",
+        "Place-les à un endroit facile à retrouver"
+      ],
+      "gentle_version": "Prépare un seul objet.",
+      "encouragement": "Un petit geste ce soir peut alléger demain.",
+      "reflection_question": "Qu'aimerais-tu préparer plus souvent ?",
+      "optional": true
+    },
+    {
+      "id": "2027-01-09",
+      "date": "2027-01-09",
+      "day": 9,
+      "month": 1,
+      "theme": "My New Habits Era",
+      "category": "habitudes",
+      "title": "Lire dix minutes",
+      "intention": "Tester une pause lecture dans la journée.",
+      "duration": "10 min",
+      "steps": [
+        "Choisis un livre qui te donne envie",
+        "Trouve un endroit confortable",
+        "Lis sans imposer de nombre de pages"
+      ],
+      "gentle_version": "Lis un paragraphe.",
+      "encouragement": "Lire une page reste un vrai moment de lecture.",
+      "reflection_question": "Quel passage as-tu apprécié ?",
+      "optional": true
+    },
+    {
+      "id": "2027-01-10",
+      "date": "2027-01-10",
+      "day": 10,
+      "month": 1,
+      "theme": "My New Habits Era",
+      "category": "habitudes",
+      "title": "Différer un achat impulsif",
+      "intention": "Créer un temps de réflexion avant un achat non essentiel.",
+      "duration": "10 min",
+      "steps": [
+        "Repère une envie d'achat sans urgence",
+        "Note l'objet, son prix et pourquoi il te tente",
+        "Décide de patienter 24 heures avant de réévaluer"
+      ],
+      "gentle_version": "Ajoute l'objet à une liste d'envies au lieu d'acheter immédiatement.",
+      "encouragement": "Prendre le temps de choisir, c'est garder ta liberté.",
+      "reflection_question": "En avais-tu encore envie après réflexion ?",
+      "optional": true
+    },
+    {
+      "id": "2027-01-11",
+      "date": "2027-01-11",
+      "day": 11,
+      "month": 1,
+      "theme": "My New Habits Era",
+      "category": "habitudes",
+      "title": "Préparer un matcha maison",
+      "intention": "Essayer un rituel plaisir qui peut aussi limiter certaines dépenses.",
+      "duration": "10 min",
+      "steps": [
+        "Vérifie les ingrédients et le matériel disponibles",
+        "Prépare une version simple selon tes goûts",
+        "Savoure ton matcha dans une ambiance agréable"
+      ],
+      "gentle_version": "Prépare une autre boisson maison que tu aimes.",
+      "encouragement": "Les plaisirs du quotidien n'ont pas besoin d'être compliqués.",
+      "reflection_question": "Qu'ajouterais-tu à ta recette préférée ?",
+      "optional": true
+    },
+    {
+      "id": "2027-01-12",
+      "date": "2027-01-12",
+      "day": 12,
+      "month": 1,
+      "theme": "My New Habits Era",
+      "category": "habitudes",
+      "title": "Choisir une routine de soins",
+      "intention": "Tester quelques gestes simples et agréables.",
+      "duration": "10 min",
+      "steps": [
+        "Sélectionne les soins que tu utilises déjà",
+        "Organise leur ordre de manière confortable",
+        "Teste cette courte routine sans multiplier les produits"
+      ],
+      "gentle_version": "Fais un seul geste de soin habituel.",
+      "encouragement": "La simplicité peut te convenir parfaitement.",
+      "reflection_question": "Cette routine te paraît-elle facile à garder ?",
+      "optional": true
+    },
+    {
+      "id": "2027-01-13",
+      "date": "2027-01-13",
+      "day": 13,
+      "month": 1,
+      "theme": "My New Habits Era",
+      "category": "habitudes",
+      "title": "Prendre un repas sans écran",
+      "intention": "Tester une pause repas plus attentive.",
+      "duration": "15 min",
+      "steps": [
+        "Choisis un repas ou une collation",
+        "Pose le téléphone de côté",
+        "Savoure tranquillement en observant ton ressenti"
+      ],
+      "gentle_version": "Laisse ton téléphone de côté pendant cinq minutes.",
+      "encouragement": "Tu peux t'offrir un moment rien qu'à toi.",
+      "reflection_question": "Qu'as-tu remarqué durant ce repas ?",
+      "optional": true
+    },
+    {
+      "id": "2027-01-14",
+      "date": "2027-01-14",
+      "day": 14,
+      "month": 1,
+      "theme": "My New Habits Era",
+      "category": "habitudes",
+      "title": "Prévoir une pause sans réseaux",
+      "intention": "Observer comment tu utilises les réseaux sociaux.",
+      "duration": "30 min",
+      "steps": [
+        "Choisis une demi-heure adaptée à ton emploi du temps",
+        "Coupe les notifications non essentielles",
+        "Remplace le défilement par une activité de ton choix"
+      ],
+      "gentle_version": "Fais cinq minutes de pause.",
+      "encouragement": "Tu peux choisir où va ton attention.",
+      "reflection_question": "Que t'a apporté cette pause ?",
+      "optional": true
+    },
+    {
+      "id": "2027-01-15",
+      "date": "2027-01-15",
+      "day": 15,
+      "month": 1,
+      "theme": "My New Habits Era",
+      "category": "habitudes",
+      "title": "Planifier ma semaine avec du repos",
+      "intention": "Faire de la place aux obligations comme aux moments libres.",
+      "duration": "20 min",
+      "steps": [
+        "Note tes rendez-vous déjà fixés",
+        "Ajoute deux créneaux pour ce qui compte pour toi",
+        "Réserve au moins une plage sans obligation"
+      ],
+      "gentle_version": "Inscris une pause dans ton agenda.",
+      "encouragement": "Le repos a aussi sa place dans un planning.",
+      "reflection_question": "Ta semaine te semble-t-elle respirable ?",
+      "optional": true
+    },
+    {
+      "id": "2027-01-16",
+      "date": "2027-01-16",
+      "day": 16,
+      "month": 1,
+      "theme": "My New Habits Era",
+      "category": "habitudes",
+      "title": "Essayer la tirelire Matcha",
+      "intention": "Transformer un achat évité en occasion d'épargner, sans obligation.",
+      "duration": "10 min",
+      "steps": [
+        "Repère une petite dépense non indispensable à laquelle tu renonces réellement",
+        "Note le montant dans ta tirelire virtuelle",
+        "Si ton budget le permet, décide librement de mettre ce montant de côté"
+      ],
+      "gentle_version": "Note simplement une envie d'achat évitée, sans transférer d'argent.",
+      "encouragement": "Économiser est un choix, pas une punition.",
+      "reflection_question": "Qu'aimerais-tu faire avec l'argent économisé ?",
+      "optional": true
+    },
+    {
+      "id": "2027-01-17",
+      "date": "2027-01-17",
+      "day": 17,
+      "month": 1,
+      "theme": "My New Habits Era",
+      "category": "habitudes",
+      "title": "Trouver mon mouvement préféré",
+      "intention": "Choisir une activité agréable plutôt qu'une contrainte.",
+      "duration": "15–20 min",
+      "steps": [
+        "Liste deux ou trois mouvements que tu aimes",
+        "Teste celui qui t'attire le plus",
+        "Observe comment tu te sens et adapte l'intensité"
+      ],
+      "gentle_version": "Bouge le temps d'une chanson.",
+      "encouragement": "Le plaisir peut guider tes habitudes.",
+      "reflection_question": "Quelle activité voudrais-tu retrouver ?",
+      "optional": true
+    },
+    {
+      "id": "2027-01-18",
+      "date": "2027-01-18",
+      "day": 18,
+      "month": 1,
+      "theme": "My New Habits Era",
+      "category": "habitudes",
+      "title": "Pratiquer une compétence",
+      "intention": "Tester dix minutes d'apprentissage régulier.",
+      "duration": "10 min",
+      "steps": [
+        "Choisis une compétence qui t'intéresse",
+        "Consacre-lui dix minutes sans chercher à tout apprendre",
+        "Note une chose que tu as comprise ou essayée"
+      ],
+      "gentle_version": "Pratique deux minutes.",
+      "encouragement": "La constance commence parfois par un petit essai.",
+      "reflection_question": "Quelle compétence te donne envie de continuer ?",
+      "optional": true
+    },
+    {
+      "id": "2027-01-19",
+      "date": "2027-01-19",
+      "day": 19,
+      "month": 1,
+      "theme": "My New Habits Era",
+      "category": "habitudes",
+      "title": "Écrire cinq minutes",
+      "intention": "Explorer l'écriture comme rendez-vous avec soi-même.",
+      "duration": "5 min",
+      "steps": [
+        "Ouvre ton journal si tu en as envie",
+        "Écris ce qui te traverse l'esprit",
+        "Arrête lorsque tu sens que c'est suffisant"
+      ],
+      "gentle_version": "Écris un seul mot ou passe cette activité.",
+      "encouragement": "Ton journal est un espace libre, jamais un devoir.",
+      "reflection_question": "Qu'as-tu envie de retenir de cette journée ?",
+      "optional": true
+    },
+    {
+      "id": "2027-01-20",
+      "date": "2027-01-20",
+      "day": 20,
+      "month": 1,
+      "theme": "My New Habits Era",
+      "category": "habitudes",
+      "title": "Organiser mon espace de travail",
+      "intention": "Créer un environnement plus agréable pour une activité.",
+      "duration": "10 min",
+      "steps": [
+        "Libère une petite surface",
+        "Place à portée de main les objets utiles",
+        "Ajoute un détail agréable sans encombrer"
+      ],
+      "gentle_version": "Range deux objets.",
+      "encouragement": "Ton espace peut évoluer avec tes besoins.",
+      "reflection_question": "Qu'est-ce qui aide ta concentration ?",
+      "optional": true
+    },
+    {
+      "id": "2027-01-21",
+      "date": "2027-01-21",
+      "day": 21,
+      "month": 1,
+      "theme": "My New Habits Era",
+      "category": "habitudes",
+      "title": "Préserver un temps de repos",
+      "intention": "Tester le fait de protéger une pause dans son emploi du temps.",
+      "duration": "20 min",
+      "steps": [
+        "Repère une plage réellement libre",
+        "Inscris-la comme temps personnel",
+        "Pendant cette pause, choisis de te reposer sans justification"
+      ],
+      "gentle_version": "Accorde-toi cinq minutes.",
+      "encouragement": "Ton repos mérite autant de considération que tes tâches.",
+      "reflection_question": "Comment as-tu vécu ce temps libre ?",
+      "optional": true
+    },
+    {
+      "id": "2027-01-22",
+      "date": "2027-01-22",
+      "day": 22,
+      "month": 1,
+      "theme": "My New Habits Era",
+      "category": "habitudes",
+      "title": "Vérifier mes abonnements",
+      "intention": "Prendre connaissance des dépenses récurrentes.",
+      "duration": "15 min",
+      "steps": [
+        "Liste les abonnements et leur coût",
+        "Repère ceux que tu utilises peu",
+        "Décide plus tard si l'un d'eux mérite une modification"
+      ],
+      "gentle_version": "Vérifie le prix d'un seul abonnement.",
+      "encouragement": "Comprendre ses engagements aide à choisir sereinement.",
+      "reflection_question": "Lequel te semble le moins utile ?",
+      "optional": true
+    },
+    {
+      "id": "2027-01-23",
+      "date": "2027-01-23",
+      "day": 23,
+      "month": 1,
+      "theme": "My New Habits Era",
+      "category": "habitudes",
+      "title": "Noter une gratitude",
+      "intention": "Tester un rituel d'attention aux petites choses agréables.",
+      "duration": "5 min",
+      "steps": [
+        "Repense à ta journée",
+        "Choisis un moment, une personne ou un détail positif",
+        "Écris pourquoi il a compté pour toi"
+      ],
+      "gentle_version": "Note un seul mot.",
+      "encouragement": "Une petite joie peut suffire à éclairer une journée.",
+      "reflection_question": "Qu'aimerais-tu ne pas oublier ?",
+      "optional": true
+    },
+    {
+      "id": "2027-01-24",
+      "date": "2027-01-24",
+      "day": 24,
+      "month": 1,
+      "theme": "My New Habits Era",
+      "category": "habitudes",
+      "title": "Prévoir une activité gratuite",
+      "intention": "Trouver du plaisir sans dépense nécessaire.",
+      "duration": "15 min",
+      "steps": [
+        "Note trois activités gratuites qui te plaisent",
+        "Choisis celle qui est facile à organiser",
+        "Prévois un moment pour l'essayer"
+      ],
+      "gentle_version": "Choisis seulement une idée pour plus tard.",
+      "encouragement": "Les beaux moments ne demandent pas toujours d'argent.",
+      "reflection_question": "Quelle activité te ferait plaisir ?",
+      "optional": true
+    },
+    {
+      "id": "2027-01-25",
+      "date": "2027-01-25",
+      "day": 25,
+      "month": 1,
+      "theme": "My New Habits Era",
+      "category": "habitudes",
+      "title": "Installer un rituel de coucher",
+      "intention": "Tester un signal doux pour terminer la journée.",
+      "duration": "15 min",
+      "steps": [
+        "Choisis une heure approximative pour ralentir",
+        "Prépare un geste apaisant comme lire ou ranger la table de nuit",
+        "Observe si cette transition te convient"
+      ],
+      "gentle_version": "Tamiser la lumière deux minutes.",
+      "encouragement": "Tu peux préparer ton sommeil avec douceur.",
+      "reflection_question": "Quel geste voudrais-tu reprendre ?",
+      "optional": true
+    },
+    {
+      "id": "2027-01-26",
+      "date": "2027-01-26",
+      "day": 26,
+      "month": 1,
+      "theme": "My New Habits Era",
+      "category": "habitudes",
+      "title": "Alléger mes notifications",
+      "intention": "Reprendre la main sur les sollicitations numériques.",
+      "duration": "10 min",
+      "steps": [
+        "Ouvre les réglages de notifications d'une application",
+        "Repère les alertes peu utiles",
+        "Désactive uniquement celles que tu n'as pas besoin de recevoir"
+      ],
+      "gentle_version": "Coupe une seule notification facultative.",
+      "encouragement": "Tu as le droit de protéger ton attention.",
+      "reflection_question": "Ton téléphone te semble-t-il plus calme ?",
+      "optional": true
+    },
+    {
+      "id": "2027-01-27",
+      "date": "2027-01-27",
+      "day": 27,
+      "month": 1,
+      "theme": "My New Habits Era",
+      "category": "habitudes",
+      "title": "Préparer une liste de courses",
+      "intention": "Tester une façon simple d'anticiper les achats.",
+      "duration": "10 min",
+      "steps": [
+        "Regarde ce que tu possèdes déjà",
+        "Liste les produits réellement nécessaires",
+        "Regroupe-les par catégorie pour simplifier les courses"
+      ],
+      "gentle_version": "Note trois articles indispensables.",
+      "encouragement": "Préparer tes choix peut alléger ton esprit.",
+      "reflection_question": "Ta liste t'aiderait-elle à éviter les oublis ?",
+      "optional": true
+    },
+    {
+      "id": "2027-01-28",
+      "date": "2027-01-28",
+      "day": 28,
+      "month": 1,
+      "theme": "My New Habits Era",
+      "category": "habitudes",
+      "title": "Faire le point sur mes essais",
+      "intention": "Observer les nouvelles habitudes sans pression.",
+      "duration": "15 min",
+      "steps": [
+        "Relis les missions de janvier que tu as testées",
+        "Repère celles qui t'ont réellement aidée",
+        "Note celles qui étaient peu adaptées à ton quotidien"
+      ],
+      "gentle_version": "Choisis une habitude que tu as aimée.",
+      "encouragement": "Une habitude abandonnée peut quand même t'apprendre quelque chose.",
+      "reflection_question": "Qu'as-tu découvert sur ton fonctionnement ?",
+      "optional": true
+    },
+    {
+      "id": "2027-01-29",
+      "date": "2027-01-29",
+      "day": 29,
+      "month": 1,
+      "theme": "My New Habits Era",
+      "category": "habitudes",
+      "title": "Choisir cinq habitudes utiles",
+      "intention": "Construire une sélection réaliste pour la suite.",
+      "duration": "20 min",
+      "steps": [
+        "Liste les habitudes qui t'ont plu",
+        "Choisis-en cinq au maximum à envisager",
+        "Pour chacune, écris une version très simple à refaire"
+      ],
+      "gentle_version": "Choisis une seule habitude.",
+      "encouragement": "Tu n'as pas besoin de tout garder pour progresser.",
+      "reflection_question": "Laquelle te paraît la plus naturelle ?",
+      "optional": true
+    },
+    {
+      "id": "2027-01-30",
+      "date": "2027-01-30",
+      "day": 30,
+      "month": 1,
+      "theme": "My New Habits Era",
+      "category": "habitudes",
+      "title": "Tester une journée à mon rythme",
+      "intention": "Combiner quelques habitudes sans surcharger sa journée.",
+      "duration": "Toute la journée, par petites touches",
+      "steps": [
+        "Choisis deux ou trois habitudes préférées",
+        "Place-les dans des moments déjà familiers",
+        "À la fin du jour, note ce qui a été facile ou non"
+      ],
+      "gentle_version": "Teste une seule habitude.",
+      "encouragement": "Ta routine idéale doit rester vivable.",
+      "reflection_question": "Qu'est-ce qui a rendu la journée plus agréable ?",
+      "optional": true
+    },
+    {
+      "id": "2027-01-31",
+      "date": "2027-01-31",
+      "day": 31,
+      "month": 1,
+      "theme": "My New Habits Era",
+      "category": "habitudes",
+      "title": "Construire ma routine de février",
+      "intention": "Imaginer la suite après le Winter Arc, sans rigidité.",
+      "duration": "20 min",
+      "steps": [
+        "Choisis trois habitudes principales à conserver",
+        "Définis quand tu aimerais les retrouver dans la semaine",
+        "Prévois une version allégée pour les jours difficiles"
+      ],
+      "gentle_version": "Choisis une habitude pour février.",
+      "encouragement": "Tu peux continuer à grandir bien après ce parcours.",
+      "reflection_question": "Quelle petite promesse douce te fais-tu pour la suite ?",
+      "optional": true
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+export default { content: ['./index.html','./src/**/*.{ts,tsx}'], theme: { extend: { colors: { cream:'#F7F3EC', sage:'#DCE7D8', blush:'#EBCDD4', ivory:'#FFFDF9', garden:'#8CA184', cocoa:'#554A43' } } }, plugins: [] }

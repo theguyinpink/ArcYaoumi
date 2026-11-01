@@ -1,0 +1,602 @@
+[
+  {
+    "id": "confidence-01",
+    "category": "confidence",
+    "text": "Tu n’as rien à prouver aujourd’hui. Ta valeur ne dépend pas de ta productivité."
+  },
+  {
+    "id": "confidence-02",
+    "category": "confidence",
+    "text": "Tu peux prendre ta place sans avoir besoin de te justifier."
+  },
+  {
+    "id": "confidence-03",
+    "category": "confidence",
+    "text": "Tes petites réussites méritent elles aussi d’être célébrées."
+  },
+  {
+    "id": "confidence-04",
+    "category": "confidence",
+    "text": "Tu as le droit de te faire confiance, même lorsque tu hésites."
+  },
+  {
+    "id": "confidence-05",
+    "category": "confidence",
+    "text": "Ce qui te rend différente peut aussi faire ta force."
+  },
+  {
+    "id": "confidence-06",
+    "category": "confidence",
+    "text": "Tu n’as pas besoin d’être parfaite pour être aimée."
+  },
+  {
+    "id": "confidence-07",
+    "category": "confidence",
+    "text": "Parle-toi comme tu parlerais à une personne que tu aimes."
+  },
+  {
+    "id": "confidence-08",
+    "category": "confidence",
+    "text": "Tu mérites la même bienveillance que celle que tu offres."
+  },
+  {
+    "id": "confidence-09",
+    "category": "confidence",
+    "text": "Tu peux être fière de ce que tu as traversé."
+  },
+  {
+    "id": "confidence-10",
+    "category": "confidence",
+    "text": "Ton rythme est valable, même s’il ne ressemble à aucun autre."
+  },
+  {
+    "id": "confidence-11",
+    "category": "confidence",
+    "text": "Un doute ne retire rien à tes qualités."
+  },
+  {
+    "id": "confidence-12",
+    "category": "confidence",
+    "text": "Ton avis compte, même lorsque tu es la seule à le partager."
+  },
+  {
+    "id": "confidence-13",
+    "category": "confidence",
+    "text": "Tu as le droit d’apprendre en essayant."
+  },
+  {
+    "id": "confidence-14",
+    "category": "confidence",
+    "text": "La confiance se construit aussi dans les tout petits choix."
+  },
+  {
+    "id": "confidence-15",
+    "category": "confidence",
+    "text": "Une journée compliquée ne résume pas qui tu es."
+  },
+  {
+    "id": "confidence-16",
+    "category": "confidence",
+    "text": "Tu peux reconnaître tes efforts sans attendre un grand résultat."
+  },
+  {
+    "id": "confidence-17",
+    "category": "confidence",
+    "text": "Tu es bien plus qu’une liste de choses à faire."
+  },
+  {
+    "id": "confidence-18",
+    "category": "confidence",
+    "text": "Prends un instant pour reconnaître une qualité que tu possèdes."
+  },
+  {
+    "id": "confidence-19",
+    "category": "confidence",
+    "text": "Il n’y a pas une seule manière de réussir sa journée."
+  },
+  {
+    "id": "confidence-20",
+    "category": "confidence",
+    "text": "Tu peux être toi-même, sans te comparer aux autres."
+  },
+  {
+    "id": "comfort-01",
+    "category": "comfort",
+    "text": "Si aujourd’hui est difficile, tu as le droit de ralentir."
+  },
+  {
+    "id": "comfort-02",
+    "category": "comfort",
+    "text": "Certains jours, juste avancer un peu suffit."
+  },
+  {
+    "id": "comfort-03",
+    "category": "comfort",
+    "text": "Ce que tu ressens mérite d’être accueilli avec douceur."
+  },
+  {
+    "id": "comfort-04",
+    "category": "comfort",
+    "text": "Tu peux demander du soutien quand tu en as envie."
+  },
+  {
+    "id": "comfort-05",
+    "category": "comfort",
+    "text": "Tu n’as pas besoin de trouver une solution immédiatement."
+  },
+  {
+    "id": "comfort-06",
+    "category": "comfort",
+    "text": "Il est possible d’avoir une journée imparfaite et un joli moment."
+  },
+  {
+    "id": "comfort-07",
+    "category": "comfort",
+    "text": "Tu peux te laisser du temps pour comprendre ce que tu ressens."
+  },
+  {
+    "id": "comfort-08",
+    "category": "comfort",
+    "text": "Tu n’es pas obligée de sourire si tu n’en as pas envie."
+  },
+  {
+    "id": "comfort-09",
+    "category": "comfort",
+    "text": "Une pause peut être un vrai cadeau à te faire."
+  },
+  {
+    "id": "comfort-10",
+    "category": "comfort",
+    "text": "Quand c’est trop, tu peux choisir une seule chose à la fois."
+  },
+  {
+    "id": "comfort-11",
+    "category": "comfort",
+    "text": "Tes émotions n’ont pas besoin d’être corrigées à la minute."
+  },
+  {
+    "id": "comfort-12",
+    "category": "comfort",
+    "text": "Il y a de la place pour les jours avec et les jours sans."
+  },
+  {
+    "id": "comfort-13",
+    "category": "comfort",
+    "text": "Parfois, le plus doux des projets est de ne rien prévoir."
+  },
+  {
+    "id": "comfort-14",
+    "category": "comfort",
+    "text": "Le fait de recommencer n’efface pas tes progrès."
+  },
+  {
+    "id": "comfort-15",
+    "category": "comfort",
+    "text": "Tu as le droit de changer d’avis et de revoir tes plans."
+  },
+  {
+    "id": "comfort-16",
+    "category": "comfort",
+    "text": "Tu peux garder ce message comme une petite pensée rassurante."
+  },
+  {
+    "id": "comfort-17",
+    "category": "comfort",
+    "text": "Il n’y a aucune urgence à être une autre version de toi-même."
+  },
+  {
+    "id": "comfort-18",
+    "category": "comfort",
+    "text": "Tu peux te reposer sur les personnes en qui tu as confiance."
+  },
+  {
+    "id": "comfort-19",
+    "category": "comfort",
+    "text": "Ton ressenti n’a pas besoin d’être comparé à celui des autres."
+  },
+  {
+    "id": "comfort-20",
+    "category": "comfort",
+    "text": "Aujourd’hui aussi, tu mérites de la gentillesse."
+  },
+  {
+    "id": "calm-01",
+    "category": "calm",
+    "text": "Si tu en as envie, relâche un peu tes épaules."
+  },
+  {
+    "id": "calm-02",
+    "category": "calm",
+    "text": "Prends une minute pour remarquer ce qui t’entoure."
+  },
+  {
+    "id": "calm-03",
+    "category": "calm",
+    "text": "Tu peux choisir de faire une pause loin des écrans."
+  },
+  {
+    "id": "calm-04",
+    "category": "calm",
+    "text": "Un souffle tranquille, puis le suivant, à ton rythme."
+  },
+  {
+    "id": "calm-05",
+    "category": "calm",
+    "text": "Il est permis de ne pas remplir chaque minute."
+  },
+  {
+    "id": "calm-06",
+    "category": "calm",
+    "text": "Un petit instant calme peut changer l’ambiance d’une journée."
+  },
+  {
+    "id": "calm-07",
+    "category": "calm",
+    "text": "Que pourrais-tu rendre un peu plus simple maintenant ?"
+  },
+  {
+    "id": "calm-08",
+    "category": "calm",
+    "text": "Tu peux t’installer confortablement, juste un moment."
+  },
+  {
+    "id": "calm-09",
+    "category": "calm",
+    "text": "Peut-être qu’une musique douce te ferait du bien."
+  },
+  {
+    "id": "calm-10",
+    "category": "calm",
+    "text": "Tu peux observer tes pensées sans devoir les suivre toutes."
+  },
+  {
+    "id": "calm-11",
+    "category": "calm",
+    "text": "Une tasse chaude et quelques minutes de pause, si ça te tente."
+  },
+  {
+    "id": "calm-12",
+    "category": "calm",
+    "text": "Tu as le droit d’éloigner une source de bruit."
+  },
+  {
+    "id": "calm-13",
+    "category": "calm",
+    "text": "Les choses importantes peuvent parfois attendre quelques minutes."
+  },
+  {
+    "id": "calm-14",
+    "category": "calm",
+    "text": "Si ça t’aide, ouvre la fenêtre et regarde dehors."
+  },
+  {
+    "id": "calm-15",
+    "category": "calm",
+    "text": "Essaie de remarquer trois couleurs autour de toi."
+  },
+  {
+    "id": "calm-16",
+    "category": "calm",
+    "text": "Tu peux ralentir sans perdre le fil de ta journée."
+  },
+  {
+    "id": "calm-17",
+    "category": "calm",
+    "text": "Prendre soin de ton calme, c’est aussi prendre soin de toi."
+  },
+  {
+    "id": "calm-18",
+    "category": "calm",
+    "text": "Un environnement doux commence parfois par une petite lumière."
+  },
+  {
+    "id": "calm-19",
+    "category": "calm",
+    "text": "Tu n’as pas besoin de contrôler chaque détail."
+  },
+  {
+    "id": "calm-20",
+    "category": "calm",
+    "text": "Le moment présent peut se vivre tout doucement."
+  },
+  {
+    "id": "rest-01",
+    "category": "rest",
+    "text": "Le repos n’est pas une récompense à gagner."
+  },
+  {
+    "id": "rest-02",
+    "category": "rest",
+    "text": "Tu peux fermer ton carnet pour aujourd’hui."
+  },
+  {
+    "id": "rest-03",
+    "category": "rest",
+    "text": "Même si ta liste n’est pas finie, ta journée peut se terminer."
+  },
+  {
+    "id": "rest-04",
+    "category": "rest",
+    "text": "Ton corps mérite du repos et de l’attention."
+  },
+  {
+    "id": "rest-05",
+    "category": "rest",
+    "text": "Accorde-toi un moment sans objectif, si tu le souhaites."
+  },
+  {
+    "id": "rest-06",
+    "category": "rest",
+    "text": "Tu peux choisir une soirée simple et confortable."
+  },
+  {
+    "id": "rest-07",
+    "category": "rest",
+    "text": "Les petites choses de demain peuvent attendre demain."
+  },
+  {
+    "id": "rest-08",
+    "category": "rest",
+    "text": "Il n’est pas nécessaire de tout optimiser."
+  },
+  {
+    "id": "rest-09",
+    "category": "rest",
+    "text": "Une journée tranquille est aussi une journée valable."
+  },
+  {
+    "id": "rest-10",
+    "category": "rest",
+    "text": "Tu peux te déconnecter sans rien manquer d’essentiel."
+  },
+  {
+    "id": "rest-11",
+    "category": "rest",
+    "text": "Si tu as sommeil, écoute ce signal autant que possible."
+  },
+  {
+    "id": "rest-12",
+    "category": "rest",
+    "text": "Une soirée sans programme peut être une jolie soirée."
+  },
+  {
+    "id": "rest-13",
+    "category": "rest",
+    "text": "Le calme n’a pas besoin d’être mérité."
+  },
+  {
+    "id": "rest-14",
+    "category": "rest",
+    "text": "Il n’y a rien de mal à préférer rester au chaud."
+  },
+  {
+    "id": "rest-15",
+    "category": "rest",
+    "text": "Tu peux créer un petit rituel du soir à toi."
+  },
+  {
+    "id": "rest-16",
+    "category": "rest",
+    "text": "Ce soir, tu peux simplement choisir ce qui te réconforte."
+  },
+  {
+    "id": "rest-17",
+    "category": "rest",
+    "text": "Tu mérites des moments où personne n’attend rien de toi."
+  },
+  {
+    "id": "rest-18",
+    "category": "rest",
+    "text": "Même quelques minutes de repos comptent."
+  },
+  {
+    "id": "rest-19",
+    "category": "rest",
+    "text": "Tu n’es pas obligée de répondre à tout tout de suite."
+  },
+  {
+    "id": "rest-20",
+    "category": "rest",
+    "text": "Demain est une nouvelle page, pas une dette à rembourser."
+  },
+  {
+    "id": "learning-01",
+    "category": "learning",
+    "text": "Une question curieuse est déjà un joli point de départ."
+  },
+  {
+    "id": "learning-02",
+    "category": "learning",
+    "text": "Tu peux découvrir quelque chose juste par plaisir."
+  },
+  {
+    "id": "learning-03",
+    "category": "learning",
+    "text": "Apprendre cinq minutes, c’est apprendre quand même."
+  },
+  {
+    "id": "learning-04",
+    "category": "learning",
+    "text": "Tu as le droit de te tromper pendant que tu explores."
+  },
+  {
+    "id": "learning-05",
+    "category": "learning",
+    "text": "Une petite découverte peut ouvrir une grande porte."
+  },
+  {
+    "id": "learning-06",
+    "category": "learning",
+    "text": "Garde les sujets qui éveillent vraiment ta curiosité."
+  },
+  {
+    "id": "learning-07",
+    "category": "learning",
+    "text": "Ce que tu ne sais pas encore est une occasion de découvrir."
+  },
+  {
+    "id": "learning-08",
+    "category": "learning",
+    "text": "Il n’y a pas d’âge pour commencer une nouvelle compétence."
+  },
+  {
+    "id": "learning-09",
+    "category": "learning",
+    "text": "Une seule idée nouvelle peut enrichir ta journée."
+  },
+  {
+    "id": "learning-10",
+    "category": "learning",
+    "text": "Essaie, observe et garde ce qui te ressemble."
+  },
+  {
+    "id": "learning-11",
+    "category": "learning",
+    "text": "Tu n’as pas besoin de tout retenir pour apprécier une découverte."
+  },
+  {
+    "id": "learning-12",
+    "category": "learning",
+    "text": "Le plaisir de comprendre vaut autant que le résultat."
+  },
+  {
+    "id": "learning-13",
+    "category": "learning",
+    "text": "Les meilleures questions commencent parfois par « pourquoi ? »."
+  },
+  {
+    "id": "learning-14",
+    "category": "learning",
+    "text": "Ta curiosité a le droit de changer de direction."
+  },
+  {
+    "id": "learning-15",
+    "category": "learning",
+    "text": "Un livre, une image ou une conversation peuvent t’apprendre quelque chose."
+  },
+  {
+    "id": "learning-16",
+    "category": "learning",
+    "text": "Chaque tentative apporte une information utile."
+  },
+  {
+    "id": "learning-17",
+    "category": "learning",
+    "text": "Tu peux apprendre avec tes mains, tes yeux ou tes oreilles."
+  },
+  {
+    "id": "learning-18",
+    "category": "learning",
+    "text": "Il n’existe pas une seule bonne méthode pour apprendre."
+  },
+  {
+    "id": "learning-19",
+    "category": "learning",
+    "text": "Ce qui te passionne mérite du temps."
+  },
+  {
+    "id": "learning-20",
+    "category": "learning",
+    "text": "Aujourd’hui, laisse-toi surprendre par un détail."
+  },
+  {
+    "id": "growth-01",
+    "category": "growth",
+    "text": "Les petits changements sont aussi des changements."
+  },
+  {
+    "id": "growth-02",
+    "category": "growth",
+    "text": "Une habitude peut être adaptée à ton quotidien, pas l’inverse."
+  },
+  {
+    "id": "growth-03",
+    "category": "growth",
+    "text": "Recommencer fait partie du parcours."
+  },
+  {
+    "id": "growth-04",
+    "category": "growth",
+    "text": "La constance n’exige pas la perfection."
+  },
+  {
+    "id": "growth-05",
+    "category": "growth",
+    "text": "Tu peux garder une habitude et en laisser partir une autre."
+  },
+  {
+    "id": "growth-06",
+    "category": "growth",
+    "text": "Tes besoins changent : tes routines peuvent changer aussi."
+  },
+  {
+    "id": "growth-07",
+    "category": "growth",
+    "text": "Un seul pas doux vaut mieux qu’une pression inutile."
+  },
+  {
+    "id": "growth-08",
+    "category": "growth",
+    "text": "Tu as le droit de choisir une version plus simple."
+  },
+  {
+    "id": "growth-09",
+    "category": "growth",
+    "text": "Observer ce qui fonctionne est déjà une progression."
+  },
+  {
+    "id": "growth-10",
+    "category": "growth",
+    "text": "Une nouvelle routine doit aussi te laisser respirer."
+  },
+  {
+    "id": "growth-11",
+    "category": "growth",
+    "text": "Il n’y a pas d’échec dans le fait d’ajuster un objectif."
+  },
+  {
+    "id": "growth-12",
+    "category": "growth",
+    "text": "Ta progression ne se mesure pas à celle des autres."
+  },
+  {
+    "id": "growth-13",
+    "category": "growth",
+    "text": "Choisis ce qui te soutient, pas ce qui t’épuise."
+  },
+  {
+    "id": "growth-14",
+    "category": "growth",
+    "text": "Un petit changement répété peut devenir naturel."
+  },
+  {
+    "id": "growth-15",
+    "category": "growth",
+    "text": "Tu peux célébrer ton effort sans attendre la fin."
+  },
+  {
+    "id": "growth-16",
+    "category": "growth",
+    "text": "Ce qui compte, c’est de construire une vie qui te ressemble."
+  },
+  {
+    "id": "growth-17",
+    "category": "growth",
+    "text": "Les habitudes utiles peuvent rester flexibles."
+  },
+  {
+    "id": "growth-18",
+    "category": "growth",
+    "text": "Les pauses font aussi partie d’un chemin durable."
+  },
+  {
+    "id": "growth-19",
+    "category": "growth",
+    "text": "Il est permis d’avancer lentement et sereinement."
+  },
+  {
+    "id": "growth-20",
+    "category": "growth",
+    "text": "Prends le temps de regarder le chemin déjà parcouru."
+  }
+]
